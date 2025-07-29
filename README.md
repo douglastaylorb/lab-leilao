@@ -11,7 +11,8 @@ cd lab-leilao
 docker-compose up --build
 ```
 
-3. **Acesse a aplicação**:
+3. **Teste fechamento automático**:
+
 O arquivo para testes está localizado em internal -> infra -> database -> auction -> create_auction.go
 
 ### Endpoints
